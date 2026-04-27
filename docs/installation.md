@@ -91,7 +91,7 @@ From the repo root:
 
 ```bash
 cd /usr/src
-git clone git@github.com:AI3I/pyCluster.git
+git clone https://github.com/AI3I/pyCluster.git
 cd pyCluster
 sudo ./deploy/install.sh
 sudo ./deploy/doctor.sh
